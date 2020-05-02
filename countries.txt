@@ -14,3 +14,4 @@ Ukraine;Kyiv;https://en.wikipedia.org/wiki/Ukraine;ukraine.svg
 Tuvalu;Funafuti;https://en.wikipedia.org/wiki/Tuvalu;tuvalu.svg
 Denmark;Copenhagen;https://en.wikipedia.org/wiki/Denmark;denmark.svg
 Botswana;Gaborone;https://en.wikipedia.org/wiki/Botswana;botswana.svg
+France;Paris;https://en.wikipedia.org/wiki/France;france.svg
