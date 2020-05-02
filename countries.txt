@@ -1,0 +1,16 @@
+-Country;Capital;Wikipedia;Flag
+India;New Delhi;https://en.wikipedia.org/wiki/India;india.svg
+United States of America;Washington, D.C.;https://en.wikipedia.org/wiki/United_States;usa.svg
+Mexico;Mexico City;https://en.wikipedia.org/wiki/Mexico;mexico.svg
+Austria;Vienna;https://en.wikipedia.org/wiki/Austria;austria.svg
+Spain;Madrid;https://en.wikipedia.org/wiki/Spain;spain.svg
+Nigeria;Abuja;https://en.wikipedia.org/wiki/Nigeria;nigeria.svg
+Japan;Tokyo;https://en.wikipedia.org/wiki/Japan;japan.svg
+Ethiopia;Addis Ababa;https://en.wikipedia.org/wiki/Ethiopia;ethiopia.svg
+Saudi Arabia;Riyadh;https://en.wikipedia.org/wiki/Saudi_Arabia;saudi_arabia.svg
+Seychelles;Victoria;https://en.wikipedia.org/wiki/Seychelles;seychelles.svg
+Namibia;Windhoek;https://en.wikipedia.org/wiki/Namibia;namibia.svg
+Ukraine;Kyiv;https://en.wikipedia.org/wiki/Ukraine;ukraine.svg
+Tuvalu;Funafuti;https://en.wikipedia.org/wiki/Tuvalu;tuvalu.svg
+Denmark;Copenhagen;https://en.wikipedia.org/wiki/Denmark;denmark.svg
+Botswana;Gaborone;https://en.wikipedia.org/wiki/Botswana;botswana.svg
