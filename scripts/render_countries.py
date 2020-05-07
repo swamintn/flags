@@ -27,9 +27,9 @@ def main():
         html_comps = ["<td>%s</td>" % c for c in comps]
         html_coun = '''<tr>
 <td>%s</td>
+<td width="200px">%s</td>
 <td>%s</td>
-<td>%s</td>
-<td><a href="%s" target="_blank">%s</a></td>
+<td width="200px"><a href="%s" target="_blank">%s</a></td>
 <td width="300px" height="150px" align="center"><a href="flags/%s" target="_blank"><img height="125px" src="flags/%s"/></a></td>
 </tr>''' % (num, comps[0], comps[1], comps[2], comps[2], comps[3], comps[3])
         # html_country = "<tr>\n%s\n</tr>" % '\n'.join(html_comps)

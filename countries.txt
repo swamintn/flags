@@ -15,3 +15,6 @@ Tuvalu;Funafuti;https://en.wikipedia.org/wiki/Tuvalu;tuvalu.svg
 Denmark;Copenhagen;https://en.wikipedia.org/wiki/Denmark;denmark.svg
 Botswana;Gaborone;https://en.wikipedia.org/wiki/Botswana;botswana.svg
 France;Paris;https://en.wikipedia.org/wiki/France;france.svg
+Democratic Republic of the Congo;Kinshasa;https://en.wikipedia.org/wiki/Democratic_Republic_of_the_Congo;democratic_republic_of_the_congo.svg
+United Arab Emirates;Abu Dhabi;https://en.wikipedia.org/wiki/United_Arab_Emirates;uae.svg
+Chile;Santiago;https://en.wikipedia.org/wiki/Chile;chile.svg
